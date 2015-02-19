@@ -1,0 +1,2 @@
+defmodule Cheer do
+end
